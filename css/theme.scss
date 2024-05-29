@@ -139,3 +139,38 @@ footer {
         }
     }
 }
+
+
+
+/* --------- DMG: Extra ---------------------------------------------------------------------------- */
+.dmg-extra-text-custom {
+  font-size: x-large;
+  background-color: rgba(50, 50, 50, 0.7);
+  /*padding: 20px 20px 20px 20px; */
+  padding: 2rem 12rem;
+}
+
+.dmg-extra-text-custom li {
+  line-height: 3rem;
+  padding: 20px 20px 20px 20px;
+}
+
+.dmg-dbl-oversize {
+  font-size: 200%;
+}
+
+.dmg-oversize {
+  font-size: 150%;
+  font-style: italic;
+}
+
+.dmg-simply-bold {
+  font-size: 150%;
+  font-style: bold;
+}
+
+.dmg-simply-less-bold {
+  font-size: 120%;
+  font-style: bold italic;
+  font-style: italic;
+}
