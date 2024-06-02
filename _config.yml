@@ -193,7 +193,7 @@ extra_html: >
    <img src="images/cropped-notes-sm1.png" class="dmg-breaker-image" />
  </p>
  <p>
-  OPTION 1 - <span class="dmg-dbl-oversize">"PLAY DON'T PAY"</span> - because <a href="blank">Bandadeer will donate €1 to charity for each Spotify play (for the first 1K plays)</a>. It's a no brainer, right? (Coming soon)
+  OPTION 1 - <span class="dmg-dbl-oversize">"PLAY DON'T PAY"</span> - because <a href="#" onclick="alert('This option is available from Souless Shoes release date - Wednesday, 26th June 2024. Stay tuned!'); return false">Bandadeer will donate €1 to charity for each Spotify play (for the first 1K plays)</a>. It's a no brainer, right?
  </p>
  <p align="right">
    <img src="images/hole-of-money-sm1.png" class="dmg-breaker-image-next" />
