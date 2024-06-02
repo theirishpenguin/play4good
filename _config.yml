@@ -126,11 +126,6 @@ links:
 #      show: false
 #      href: http://steamcommunity.com/id/YOUR_STEAM_CUSTOM_ID
 #      icon: fab fa-steam
-#  - soundcloud:
-#      name: Soundcloud
-#      show: false
-#      href: https://soundcloud.com/YOUR_SOUNDCLOUD_USERNAME
-#      icon: fab fa-soundcloud
 #  - lastfm:
 #      name: Last.fm
 #      show: false
@@ -176,6 +171,11 @@ links:
       show: true
       href: mailto:go@play4good.ie
       icon: fas fa-envelope
+  - soundcloud:
+      name: Soundcloud
+      show: false
+      href: https://soundcloud.com/bandadeer
+      icon: fab fa-soundcloud
 #  - publickey:
 #      name: PGP Key
 #      show: true
