@@ -177,7 +177,7 @@ links:
       href: https://open.spotify.com/track/7tU3xCPfXH2vsXouhUdajZ?si=b1045d3e72f14a2f
       icon: fab fa-spotify
   - donate:
-      name: Donate
+      name: Donate To Charity
       show: true
       href: https://www.idonate.ie/fundraiser/bandadeer-dub
       icon: fas fa-hand-holding-heart fa-fw
@@ -216,7 +216,7 @@ extra_html: >
    <a href="https://open.spotify.com/track/7tU3xCPfXH2vsXouhUdajZ?si=b1045d3e72f14a2f"><img src="images/souless-shoes-lo-res.png" class="dmg-breaker-image-alt" /></a>
  </p>
  <p>
-  1. Bandadeer will donate €1 to charity for each Spotify play (for the first 1K plays)
+ 1. Bandadeer will donate €1 to charity for each <a href="https://open.spotify.com/track/7tU3xCPfXH2vsXouhUdajZ?si=b1045d3e72f14a2f">Spotify play</a> (for the first 1K plays)
  </p>
  <!--
  <p class="text-center">
