@@ -166,16 +166,26 @@ links:
 #      show: true
 #      href: http://host.domain/your_blog
 #      icon: fas fa-book-open
+  - soundcloud:
+      name: Soundcloud
+      show: false
+      href: https://soundcloud.com/bandadeer
+      icon: fas fa-soundcloud
+  - spotify:
+      name: Spotify
+      show: true
+      href: https://open.spotify.com/track/7tU3xCPfXH2vsXouhUdajZ?si=b1045d3e72f14a2f
+      icon: fab fa-spotify
+  - donate:
+      name: Donate
+      show: true
+      href: https://www.idonate.ie/fundraiser/bandadeer-dub
+      icon: fas fa-hand-holding-heart fa-fw
   - email:
       name: Email
       show: true
       href: mailto:go@play4good.ie
       icon: fas fa-envelope
-  - soundcloud:
-      name: Soundcloud
-      show: false
-      href: https://soundcloud.com/bandadeer
-      icon: fab fa-soundcloud
 #  - publickey:
 #      name: PGP Key
 #      show: true
@@ -186,12 +196,23 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
- <p>
-   <span class="dmg-dbl-oversize">Play4Good</span> is an initiative to use music, art and all forms of "play" to <span class="dmg-oversize">fight homelessness</span> and other social issues that are preventing us from building a beautiful society and world <span class="dmg-dbl-oversize">together</span>. The first project in this series is fronted by <span class="dmg-dbl-oversize">Bandadeer</span>, whose debut single <span class="dmg-oversize">Souless Shoes</span>, will seek to raise money for the <span class="dmg-simply-bold">Simon Community</span> and other charities with all proceeds going to good via the following means...
+ <p class="text-center">
+   <span class="dmg-dbl-oversize">Play4Good</span> is an initiative to use music, art and all forms of "play" to <span class="dmg-oversize">fight homelessness</span> and other social issues that are preventing us from building a beautiful society and world <span class="dmg-dbl-oversize">together</span>.
+ </p>
+ <p class="text-center">
+   <a href="https://open.spotify.com/track/7tU3xCPfXH2vsXouhUdajZ?si=b1045d3e72f14a2f"><img src="images/cropped-notes-sm1.png" class="dmg-breaker-image" /></a>
  </p>
  <p>
-   <img src="images/cropped-notes-sm1.png" class="dmg-breaker-image" />
+ <p class="text-center">
+   The first project in this series is fronted by <span class="dmg-dbl-oversize">Bandadeer</span>, whose debut single <span class="dmg-oversize">Souless Shoes</span>, will seek to raise money for the <span class="dmg-simply-bold">Simon Community</span> who work tirelessly to tackle homelessness.
  </p>
+ <p class="text-center">
+   <a href="https://www.idonate.ie/fundraiser/bandadeer-dub"><img src="images/dublin-simon-image.png" class="dmg-breaker-image-alt" /></a>
+ </p>
+ <p>
+   You can help, with all proceeds going to good, via the following means...
+ </p>
+
  <p>
   OPTION 1 - <span class="dmg-dbl-oversize">"PLAY DON'T PAY"</span> - because <a href="#" onclick="alert('This option is available from Souless Shoes release date - Wednesday, 26th June 2024. Stay tuned!'); return false">Bandadeer will donate €1 to charity for each Spotify play (for the first 1K plays)</a>. It's a no brainer, right?
  </p>
@@ -202,9 +223,11 @@ extra_html: >
    OPTION 2 - "DONATE DIRECT" - via the <a href="https://www.idonate.ie/fundraiser/bandadeer-dub"><span class="dmg-oversize">Play4Good - Bandadeer Fundraiser</span> &nbsp; For The Dublin Simon Community</a>
  </p>
  <p>
+ <!--
  <p align="right">
  Why not do <span class="dmg-dbl-oversize">both? \o/ \o/ \o/</span>
  </p>
+ -->
  <!--<p><i>P.S. If you're interested in using your art in a Play4Good way get in touch using our email above.</i></p>-->
  </div>
 #EOF
